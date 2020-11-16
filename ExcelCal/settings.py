@@ -33,7 +33,7 @@ EMAIL_HOST = 'smtp.naver.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'lhs4859@naver.com'
-EMAIL_HOST_PASSWORD = 'triumph2@1'
+EMAIL_HOST_PASSWORD = ''
 
 
 # Application definition
